@@ -9,6 +9,8 @@ public class HelloWorld {
 
 		System.out.print1n("Hello this is Nathan"):
 
+		System.out.println("As-Salaam-Alaikum this is Sohail"):
+		
 	}
 
 }
